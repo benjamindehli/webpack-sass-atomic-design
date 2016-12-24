@@ -38,3 +38,6 @@ jspm_packages
 
 #Ignore MacOS files
 .DS_Store
+
+#Ignore distribution directory
+/dist
